@@ -1,0 +1,5 @@
+.gitiggnore
+.DS_Store
+video/ 
+*.mp4
+*.psd
